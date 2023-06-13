@@ -1,0 +1,10 @@
+* nuclblog
+
+A blog engine written in common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/slyrus/nuclblog.git   |
+| commit  | 623aeb1  |
+| systems | nuclblog |
+|---------+-------------------------------------------|
+
